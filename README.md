@@ -12,4 +12,4 @@ El repositorio está organizado de la siguiente manera:
 
 ## Estado Actual
 
-Actualmente se encuentran disponibles la primera tarea. A medida que se vayan acercando las fechas de entrega, se irán montando el resto de las tareas.
+Actualmente se encuentran disponibles todas las tareas.
