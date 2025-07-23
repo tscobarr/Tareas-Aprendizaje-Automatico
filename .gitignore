@@ -1,3 +1,69 @@
-# Ignorar la carpeta "2" y todo su contenido
-2/
-Proyecto Individual/
+#
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+install.sh
+uninstall.sh
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# Test outputs
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.cache/
+pytest_cache/
+
+# MyPy and other tools
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# VSCode
+.vscode/
+
+# Streamlit temporary files
+.streamlit/
+
+# Credentials or temp configs
+.env
+.env.*
+
+# Carpeta de data de la tarea 2
+\data
