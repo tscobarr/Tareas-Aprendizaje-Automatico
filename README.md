@@ -8,7 +8,7 @@ El repositorio está organizado de la siguiente manera:
 
 - **Carpeta `1/`**: Primera tarea de la materia
 - **Carpeta `2/`**: Segunda tarea de la materia  
-- **Carpeta `Proyecto individual/`**: Tercera tarea - Proyecto individual
+- **Carpeta `Proyecto_café/`**: Tercera tarea - Proyecto individual
 
 ## Estado Actual
 
